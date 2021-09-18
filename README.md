@@ -1,6 +1,6 @@
 <div align="right">  
   <img src="https://img.shields.io/static/v1?label=LICENSE&message=CC0&color=blue&style=flat-square"/>
-  <img src="https://img.shields.io/static/v1?label=Contributing&message=Welcome!&color=orange&style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=Contribution&message=Welcome!&color=orange&style=flat-square"/>
 </div>
 
 <div align="center">
@@ -37,15 +37,15 @@
 
 ### dateutils
 
-- [dateutils](https://github.com/hroptatyr/dateutils) - nifty command line date and time utilities; fast date calculations and conversion in the shell
+[dateutils](https://github.com/hroptatyr/dateutils) - nifty command line date and time utilities; fast date calculations and conversion in the shell
 
 ### uniutils
 
-- [uniutils](http://www.billposer.org/Software/unidesc.html) -  Programs for manipulating and analyzing Unicode text.
+[uniutils](http://www.billposer.org/Software/unidesc.html) -  Programs for manipulating and analyzing Unicode text.
 
 ### Open USP Tsukubai
 
-- [Open USP Tsukubai](https://github.com/usp-engineers-community/Open-usp-Tukubai) - Unix-style commands for corporate systems written in Python
+[Open USP Tsukubai](https://github.com/usp-engineers-community/Open-usp-Tukubai) - Unix-style commands for corporate systems written in Python
   - [About Open USP Tsukubai](https://uec.usp-lab.com/tukubai)
   - [Manual](https://uec.usp-lab.com/tukubai_man)
 
