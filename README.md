@@ -57,6 +57,10 @@ This is a list of useful commands in the Unix shell one-liner.
 - [htmlq](https://github.com/mgdm/htmlq) - like jq but for HTML
 - [emmet-cli](https://github.com/Delapouite/emmet-cli) - A command to expand emmet expression
 
+## YAML/XML
+
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+
 ## Sed replacement
 
 - [sad](https://github.com/ms-jpq/sad) - sed replacement written in Rust
