@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/static/v1?label=LICENSE&message=CC0&color=blue&style=flat-square"/>
 </div>
 
-This is a list of useful commands in the Unix shell one-liner.
+## About
 
-## Commands Collection
+This is a list of useful commands in the Unix shell one-liner. **Contributions are welcome!**
+
+## Utilities
 
 ### moreutils
 
