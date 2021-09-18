@@ -1,7 +1,7 @@
-# 🐚 Awesome CLI tools for One Liner
+# 🐚 Awesome CLI tools for One Liner [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<div align="right">
-<img src="https://img.shields.io/static/v1?label=LICENSE&message=CC0&color=blue&style=flat-square"/>
+<div align="right">  
+  <img src="https://img.shields.io/static/v1?label=LICENSE&message=CC0&color=blue&style=flat-square"/>
 </div>
 
 This is a list of useful commands in the Unix shell one-liner.
