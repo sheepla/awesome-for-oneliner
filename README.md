@@ -57,6 +57,11 @@ This is a list of useful commands in the Unix shell one-liner.
 - [htmlq](https://github.com/mgdm/htmlq) - like jq but for HTML
 - [emmet-cli](https://github.com/Delapouite/emmet-cli) - A command to expand emmet expression
 
+## Sed replacement
+
+- [sad](https://github.com/ms-jpq/sad) - sed replacement written in Rust
+- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+
 ## AWK-like tools
 
 - [opy](https://github.com/ryuichiueda/opy) - A Python wrapper which works like AWK
