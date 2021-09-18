@@ -39,6 +39,17 @@
 
 [dateutils](https://github.com/hroptatyr/dateutils) - nifty command line date and time utilities; fast date calculations and conversion in the shell
 
+- `strptime` :  Command line version of the C function
+- `dateadd` :  Add durations to dates or times
+- `dateconv` :  Convert dates or times between calendars
+- `datediff` :  Compute durations between dates or times
+- `dategrep` :  Grep dates or times in input streams
+- `dateround` :  Round dates or times to "fuller" values
+- `dateseq` :  Generate sequences of dates or times
+- `datesort` :  Sort chronologically.
+- `datetest` :  Compare dates or times
+- `datezone` :  Convert date/times to timezones in bulk
+
 ### uniutils
 
 [uniutils](http://www.billposer.org/Software/unidesc.html) -  Programs for manipulating and analyzing Unicode text.
