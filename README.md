@@ -1,6 +1,8 @@
-# Awesome CLI tools for One Liner
+# 🐚 Awesome CLI tools for One Liner
 
-## About
+<div align="right">
+<img src="https://img.shields.io/static/v1?label=LICENSE&message=CC0&color=blue&style=flat-square"/>
+</div>
 
 This is a list of useful commands in the Unix shell one-liner.
 
