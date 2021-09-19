@@ -8,10 +8,10 @@
   
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   
-  This is a list of useful commands in the Unix shell one-liner. **Contributions are welcome!**
+  This is a list of useful commands in the Unix shell one liner. **Contributions are welcome!**
 </div>
 
-
+---
 
 ## Utilities
 
@@ -135,4 +135,14 @@
     - [eggplants/websh](https://github.com/eggplants/websh.sh) - bash
     - [yuu528/sgb](https://github.com/yuu528/sgb) - bash
     - [sheepla/PSWebsh](https://github.com/sheepla/PsWebsh) - PowerShell Module
+
+---
+
+## Contribution
+
+Welcome! ✨
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
