@@ -127,9 +127,9 @@
   - [Repository](https://github.com/jiro4989/websh)
   - [API Reference](https://jiro4989.github.io/websh/swagger.html)
   - CLI clients
-    - [jiro4989/websh-go](https://github.com/jiro4989/websh-go)
-    - [Khronos31/scripts/websh](https://github.com/Khronos31/scripts/blob/master/bin/websh)
-    - [eggplants/websh](https://github.com/eggplants/websh.sh)
-    - [yuu528/sgb](https://github.com/yuu528/sgb)
+    - [jiro4989/websh-go](https://github.com/jiro4989/websh-go) - Go
+    - [Khronos31/scripts/websh](https://github.com/Khronos31/scripts/blob/master/bin/websh) - bash
+    - [eggplants/websh](https://github.com/eggplants/websh.sh) - bash
+    - [yuu528/sgb](https://github.com/yuu528/sgb) - bash
     - [sheepla/PSWebsh](https://github.com/sheepla/PsWebsh) - PowerShell Module
 
