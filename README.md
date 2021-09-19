@@ -101,6 +101,10 @@
 
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 
+## Unicode
+
+- [chr](https://github.com/pemistahl/chr) - A command-line tool that gives information about Unicode characters
+
 ## Translate
 
 - [translate-shell](https://github.com/soimort/translate-shell) - Command-line translation tool written in AWK
