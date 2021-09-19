@@ -117,6 +117,7 @@
 
 - [translate-shell](https://github.com/soimort/translate-shell) - Command-line translation tool written in AWK
 - [deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI written in Python
+- [translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 
 ## Document Converter
 
