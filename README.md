@@ -79,24 +79,27 @@
 
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 
-## Sed replacement
+## Sed Replacement
 
 - [sad](https://github.com/ms-jpq/sad) - sed replacement written in Rust
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 
-## AWK-like tools
+## AWK-like Tools
 
 - [opy](https://github.com/ryuichiueda/opy) - A Python wrapper which works like AWK
   -  To know how to use `opy`, see [EXAMPLES.md](https://github.com/ryuichiueda/opy/blob/master/EXAMPLES.md)
 - [hawk](https://github.com/gelisam/hawk) - Haskell text processor for the command-line
 - [frawk](https://github.com/ezrosent/frawk) - An efficient AWK like language written in Rust
+
+## Xargs-like Tools
+
 - [rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
+- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 
 ## Text Editing
 
 - [tate](https://github.com/mattn/tate) - A command to convert text to vertical writing
 - [forest](https://github.com/KoharaKazuya/forest) - A command that formats and outputs text that represents a line-oriented structured tree structure.
-- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 
 ## Regular Expression
 
