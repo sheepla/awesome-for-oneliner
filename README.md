@@ -87,6 +87,7 @@
 ## AWK-like tools
 
 - [opy](https://github.com/ryuichiueda/opy) - A Python wrapper which works like AWK
+  -  To know how to use `opy`, see [EXAMPLES.md](https://github.com/ryuichiueda/opy/blob/master/EXAMPLES.md)
 - [hawk](https://github.com/gelisam/hawk) - Haskell text processor for the command-line
 - [frawk](https://github.com/ezrosent/frawk) - An efficient AWK like language written in Rust
 - [rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
