@@ -121,3 +121,8 @@
 
 - [textimg](https://github.com/jiro4989/textimg) - Command to convert from color text (ANSI or 256) to image
 
+## Execution Environment
+
+- [websh](https://websh.jiro4989.com) - A web shell execution environment
+  - [Repository](https://github.com/jiro4989/websh)
+  - [API Reference](https://jiro4989.github.io/websh/swagger.html)
