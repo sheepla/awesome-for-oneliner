@@ -97,6 +97,10 @@
 - [forest](https://github.com/KoharaKazuya/forest) - A command that formats and outputs text that represents a line-oriented structured tree structure.
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 
+## Regular Expression
+
+- [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+
 ## Translate
 
 - [translate-shell](https://github.com/soimort/translate-shell) - Command-line translation tool written in AWK
