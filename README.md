@@ -70,6 +70,10 @@
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language tool written in Rust
 - [tv](https://github.com/uzimaru0000/tv) - format JSON into table view
 
+## CSV
+
+- [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
+
 ## HTML
 
 - [htmlq](https://github.com/mgdm/htmlq) - like jq but for HTML
