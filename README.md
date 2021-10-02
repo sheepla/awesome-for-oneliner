@@ -139,6 +139,10 @@
 
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter written in Haskell
 
+## Color
+
+- [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, convert and manipulate colors
+
 ## Image Processing
 
 - [imagemagick](https://imagemagick.org/index.php) - A tool to create, edit, compose, or convert digital images
