@@ -126,6 +126,7 @@
 ## Unicode
 
 - [chr](https://github.com/pemistahl/chr) - A command-line tool that gives information about Unicode characters
+- [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 
 ## Translate
 
