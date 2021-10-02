@@ -62,12 +62,12 @@
 
 ## JSON 
 
-* [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-* [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments
-* [rjo](https://github.com/dskkato/rjo) - A small utility to create JSON objects from command-line arguments written in Rust
-* [jq](https://github.com/stedolan/jq) - A JSON Query Language tool
-
+- [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) - [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+- [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments
+- [rjo](https://github.com/dskkato/rjo) - A small utility to create JSON objects from command-line arguments written in Rust
+- [jq](https://github.com/stedolan/jq) - A JSON Query Language tool
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language tool written in Rust
+- [gojq](https://github.com/itchyny/gojq) -A JSON Query Language tool written in Go
 - [tv](https://github.com/uzimaru0000/tv) - format JSON into table view
 
 ## CSV
