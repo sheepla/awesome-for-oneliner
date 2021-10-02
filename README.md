@@ -92,6 +92,11 @@
 - [sad](https://github.com/ms-jpq/sad) - sed replacement written in Rust
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 
+## Grep Replacement
+
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
+
 ## AWK-like Tools
 
 - [opy](https://github.com/ryuichiueda/opy) - A Python wrapper which works like AWK
