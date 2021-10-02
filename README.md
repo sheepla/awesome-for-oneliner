@@ -97,6 +97,10 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
 
+## Find Replacement
+
+- [fd](https://github.com/ggreer/the_silver_searcher) - A simple, fast and user-friendly alternative to `find`
+
 ## AWK-like Tools
 
 - [opy](https://github.com/ryuichiueda/opy) - A Python wrapper which works like AWK
