@@ -69,7 +69,7 @@
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language tool written in Rust
 - [gojq](https://github.com/itchyny/gojq) -A JSON Query Language tool written in Go
 - [tv](https://github.com/uzimaru0000/tv) - A command to format JSON into table view
-- [tv](https://github.com/mattn/tvgo) - A command to format JSON into table view written in Go
+- [tvgo](https://github.com/mattn/tvgo) - A command to format JSON into table view written in Go
 
 ## CSV
 
