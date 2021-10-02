@@ -117,6 +117,7 @@
 ## Text Editing
 
 - [tate](https://github.com/mattn/tate) - A command to convert text to vertical writing
+- [align](https://github.com/jiro4989/align) - Simple text align CLI
 - [forest](https://github.com/KoharaKazuya/forest) - A command that formats and outputs text that represents a line-oriented structured tree structure.
 
 ## Regular Expression
