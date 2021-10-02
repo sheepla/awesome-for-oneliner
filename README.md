@@ -167,6 +167,7 @@
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [command-line-tools](https://github.com/learn-anything/command-line-tools)
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 
 ## Contribution
 
