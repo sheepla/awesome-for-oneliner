@@ -160,6 +160,7 @@
     - [eggplants/websh](https://github.com/eggplants/websh.sh) - bash
     - [yuu528/sgb](https://github.com/yuu528/sgb) - bash
     - [sheepla/PSWebsh](https://github.com/sheepla/PsWebsh) - PowerShell Module
+    - [sheepla/pywebsh](https://github.com/sheepla/pywebsh) - Python
 
 ---
 
