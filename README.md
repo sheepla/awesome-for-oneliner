@@ -139,6 +139,10 @@
 
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter written in Haskell
 
+## PDF
+
+- [cpdf](https://community.coherentpdf.com) - A command-line tools to manipulate PDF files.
+
 ## Color
 
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, convert and manipulate colors
