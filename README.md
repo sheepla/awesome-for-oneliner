@@ -141,7 +141,7 @@
 
 ## PDF
 
-- [cpdf](https://community.coherentpdf.com) - A command-line tools to manipulate PDF files.
+- [cpdf](https://community.coherentpdf.com) - A command-line tool to manipulate PDF files.
 - [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
 
 ## Color
