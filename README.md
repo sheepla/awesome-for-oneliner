@@ -156,18 +156,12 @@
 
 ## Execution Environment
 
-- [websh](https://websh.jiro4989.com) - A web shell execution environment
+- [websh](https://websh.jiro4989.com) - A web shell execution environment　**Note:** This service has already been discontinued
+
   - [Repository](https://github.com/jiro4989/websh)
   - [API Reference](https://jiro4989.github.io/websh/swagger.html)
-  - CLI clients
-    - [jiro4989/websh-go](https://github.com/jiro4989/websh-go) - Go
-    - [Khronos31/scripts/websh](https://github.com/Khronos31/scripts/blob/master/bin/websh) - bash
-    - [eggplants/websh](https://github.com/eggplants/websh.sh) - bash
-    - [yuu528/sgb](https://github.com/yuu528/sgb) - bash
-    - [sheepla/PSWebsh](https://github.com/sheepla/PsWebsh) - PowerShell Module
-    - [sheepla/pywebsh](https://github.com/sheepla/pywebsh) - Python
 
----
+- [Sakura-no-Cloud Shell](https://www.sakura.ad.jp/services/cloudshell/)
 
 ## Related *Awesome* Repositories
 
