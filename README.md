@@ -96,11 +96,18 @@
 ## Grep Replacement
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern while respecting your gitignore. (The name of command: `rg`)
+- [ugrep](https://github.com/Genivia/ugrep) - a faster, more user-friendly and more featureful replacement for grep (The name of command: `ug`)
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. (The name of command: `ag`)
 
 ## Find Replacement
 
-- [fd](https://github.com/ggreer/the_silver_searcher) - A simple, fast and user-friendly alternative to `find`
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
+
+## Cat Replacement
+
+- [bat](https://github.com/sharkdp/bat) - A rewrite of cat with paging, syntax highlighting, and line numbers
+- [rich-cli](https://github.com/Textualize/rich-cli) - Syntax-highlights files from the command line
+- [glow](https://github.com/charmbracelet/glow) - A command-line markdown viewer/renderer
 
 ## AWK-like Tools
 
@@ -153,6 +160,10 @@
 - [imagemagick](https://imagemagick.org/index.php) - A tool to create, edit, compose, or convert digital images
 
 - [textimg](https://github.com/jiro4989/textimg) - Command to convert from color text (ANSI or 256) to image
+
+## Video Processing
+
+- [ffmpeg](https://ffmpeg.org/) - An incredibly powerful tool for video processing and conversion
 
 ## Execution Environment
 
